@@ -7,7 +7,7 @@ There's a great test case for this on a natural system close to where I live: Th
 I first pulled the USGS elevation data for the Great Salt Lake and trimmed it to the last 30 years, I then used GGplot in R to make a nice visual representation of the lake elevations.
 
 Compare a simple line plot:
-![GSL elevation line](Great&#32Salt&#32Lake&#32Elevation.jpeg)
+![GSL elevation line](Great%20Salt%20Lake&%20Elevation.jpeg)
 
 To the much more informative heatmap:
 ![GSL Elevation heatmap](GSL_HM.jpeg)
