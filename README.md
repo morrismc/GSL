@@ -16,3 +16,5 @@ To the much more informative heatmap:
 One of the major rivers that supplies water to the Great Salt Lake is the Bear River. I decided to apply the same visualization to the Bear River's discharge. This had some complexity as I had to build in a logarithmic color scale. GGplot to the rescue.
 
 ![Bear River Discharge](BR_HM.jpeg)
+
+I have more discussion on this topic on my [blog](https://matthewmorriss.weebly.com/codeblog/discharge-visualized-thru-heatmap)
